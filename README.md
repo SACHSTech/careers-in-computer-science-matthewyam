@@ -42,3 +42,77 @@ Required Education is fairly vague when it comes to this field.  Depending on th
 
 # Standard Education
 
+## **University - York**
+
+![alttext](https://upload.wikimedia.org/wikipedia/commons/8/87/Logo_York_University.svg "York University")
+ 
+ *York University Logo*
+
+⠀
+
+## **Program and Requirements**
+***
+
+⠀
+
+## **Information Technology BCom**
+
+## **OUAC code YFW**
+
+⠀
+
+### **Ontario Entrance Requirements**
+- Ontario Secondary School Diploma (OSSD)
+- ENG4U
+- MHF4U
+- Four additional 4U or M courses
+
+⠀
+
+### **First Year Requirements**
+- 4 Majors
+- 2 General Ed
+- 1 Elective
+
+⠀
+
+### **Length of Course and External Requirements**
+
+
+
+|Length   |Degree            |Extra Requirements|
+|:-------:|:--------------:|:------------------:|
+|3 Years  |Regular Degree  | N/A                |
+|4 Years  |Honors Degree   |Internship          |
+
+⠀
+
+
+## **Other Ways to Gain Experience**
+- Co-op for workplace experience
+- Getting a job to get experience in the field
+- Taking external courses for general skills
+- Familiarize yourself with tech or messing around with various pieces of technology in free time
+
+⠀
+
+# **Real Job**
+
+## **Entry Level**
+
+![alttext](https://i.imgur.com/JjHtrUX.png "Source: monster.ca")
+
+⠀
+
+## **Intermediate Level**
+
+![alttext](https://i.imgur.com/fUR2Sha.png "Source: workopolis.com")
+
+⠀
+
+## **Senior Level**
+
+![alttext](https://i.imgur.com/NtBLi1H.png "Source: workopolis.com")
+
+
+
