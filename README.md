@@ -46,7 +46,7 @@ Required Education is fairly vague when it comes to this field.  Depending on th
 
 ![alttext](https://upload.wikimedia.org/wikipedia/commons/8/87/Logo_York_University.svg "York University")
  
- *York University Logo*
+ [*York University*](https://www.yorku.ca/) *Logo*
 
 ⠀
 
@@ -102,11 +102,15 @@ Required Education is fairly vague when it comes to this field.  Depending on th
 
 ![alttext](https://i.imgur.com/JjHtrUX.png "Source: monster.ca")
 
+Listing screenshot taken from [Monster](https://https://www.monster.ca/)
+
 ⠀
 
 ## **Intermediate Level**
 
 ![alttext](https://i.imgur.com/fUR2Sha.png "Source: workopolis.com")
+
+Listing screenshot taken from [Workopolis](https://www.workopolis.com/en)
 
 ⠀
 
@@ -114,5 +118,35 @@ Required Education is fairly vague when it comes to this field.  Depending on th
 
 ![alttext](https://i.imgur.com/NtBLi1H.png "Source: workopolis.com")
 
+Listing screenshot taken from [Workopolis](https://www.workopolis.com/en)
 
+
+
+# Work Cited
+
+“2022 Best System Administrator Degree Programs Online.” MyDegreeGuide.com, 2022, <https://www.mydegreeguide.com/system-administrator-degree-program>.
+
+ Indeed. “Job Search Canada | Indeed.” Ca.indeed.com, https://ca.indeed.com.
+
+“IT Specialist Job Description.” JobHero, 2022, https://www.jobhero.com/job-description/examples/information-technology/specialist#:~:text=IT%20specialists%2C%20also%20known%20as. 
+
+York University. “Courses.” School of Information Technology, https://www.yorku.ca/laps/itec/undergrad/courses/.
+
+---. “High-School Student from Ontario | Future Students | York University | York University.” Futurestudents.yorku.ca, https://futurestudents.yorku.ca/your-application/how-apply/high-school-student-ontario.
+
+---. “Information Technology | Future Students | York University.” Futurestudents.yorku.ca, https://futurestudents.yorku.ca/program/information-technology.
+
+---. “Information Technology Final.”, https://www.yorku.ca/laps/itec/wp-content/uploads/sites/211/2021/03/Information-Technology-Final.pdf
+
+---. “Logo York University,” Wikimedia, 6 Jan. 2015, https://commons.wikimedia.org/wiki/File:Logo_York_University.svg.
+
+---. “US Loans | Student Financial Services | York University.” Sfs.yorku.ca, https://sfs.yorku.ca/aid/usloans#:~:text=York%20University.
+
+Monster. “Find Jobs. Build a Better Career.  Find Your Calling | Monster.ca.” Monster.ca, 2011, https://www.monster.ca/.
+
+Workopolis. “Job Search Engine | Workopolis.” Www.workopolis.com, www.workopolis.com/en. Accessed 8 Oct. 2022.
+
+⠀
+
+*** Knowledge for the technical skills section is based on first hand experience ***
 
