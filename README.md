@@ -54,9 +54,9 @@ Required Education is fairly vague when it comes to this field.  Depending on th
 
 ⠀⠀
 
-## **Information Technology BCom**
+### **Information Technology BCom**
 
-## **OUAC code YFW**
+### **OUAC code YFW**
 
 ⠀
 
