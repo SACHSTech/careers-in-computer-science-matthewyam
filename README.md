@@ -145,5 +145,5 @@ Workopolis. “Job Search Engine | Workopolis.” Www.workopolis.com, www.workop
 
 ⠀
 
-*** Most Knowledge for the technical skills section is based on first hand experience ***
+*** Most information for the technical skills section is based on first hand experience ***
 
