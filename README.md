@@ -52,7 +52,6 @@ Required Education is fairly vague when it comes to this field.  Depending on th
 
 ## **Program and Requirements**
 ***
-
 ⠀
 
 ## **Information Technology BCom**
@@ -148,5 +147,5 @@ Workopolis. “Job Search Engine | Workopolis.” Www.workopolis.com, www.workop
 
 ⠀
 
-*** Knowledge for the technical skills section is based on first hand experience ***
+*** Most Knowledge for the technical skills section is based on first hand experience ***
 
