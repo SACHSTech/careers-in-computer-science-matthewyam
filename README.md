@@ -52,8 +52,6 @@ Required Education is fairly vague when it comes to this field.  Depending on th
 
 ## **Program and Requirements**
 
-⠀⠀
-
 ### **Information Technology BCom**
 
 ### **OUAC code YFW**
